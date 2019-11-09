@@ -2,7 +2,7 @@
 
 See [#30daymapchallenge](https://twitter.com/tjukanov/status/1187713840550744066?s=20) on Twitter.
 
-![Snow depth in Finland on December 24th in 1960-2018](png/multiples_fullblack.png)
+![Snow depth in Finland on December 24th in 1960-2018](png/snow_multiples_final.png)
 
 ## FMI API
 
