@@ -2,6 +2,13 @@
 
 See [#30daymapchallenge](https://twitter.com/tjukanov/status/1187713840550744066?s=20) on Twitter.
 
+Weather observations can be requested from FMI API (see below).
+I have made them into Voronoi polygons which I clipped with Finland borders
+I downloaded from [Natural Earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/).
+The entire process can be found in the R scripts;
+the QGIS file has been there for some initial sketching.
+I've cropped the final image in Gimp since `ggplot2` leaves some white margins there.
+
 ![Snow depth in Finland on December 24th in 1960-2018](png/snow_multiples_final.png)
 
 ## FMI API
